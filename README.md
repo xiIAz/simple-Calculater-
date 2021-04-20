@@ -1,1 +1,1 @@
-# simple-java-Calculater
+# simple-java-Calculator
